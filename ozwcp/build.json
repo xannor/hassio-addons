@@ -6,9 +6,9 @@
       "i386": "hassioaddons/base-i386:4.0.2"
   },
   "args": {
-    "OPENZWAVE_VERSION": "master",
+    "OPENZWAVE_VERSION": "009f887250dac2ad393a8ebe87d43c8cbf23399f",
     "OPENZWAVE_REPO": "https://github.com/OpenZWave/open-zwave.git",
-    "OPENZWAVE_CONTROL_PANEL_VERSION": "master",
+    "OPENZWAVE_CONTROL_PANEL_VERSION": "d51c855fbf4799af99e92f10750b22f263ac083b",
     "OPENZWAVE_CONTROL_PANEL_REPO": "https://github.com/OpenZWave/open-zwave-control-panel.git"
   }
 }
